@@ -1,0 +1,18 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Office & PDF Lock Files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# IDE and Database Client Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log

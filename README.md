@@ -1,4 +1,4 @@
-# 🐾 Animalia — Animal Sanctuary Database Management System
+# Animalia — Animal Sanctuary Database Management System
 
 [![Database](https://img.shields.io/badge/Database-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 [![Schema](https://img.shields.io/badge/Schema-Relational%20RDBMS-4A90E2?style=for-the-badge)](https://en.wikipedia.org/wiki/Relational_database)
@@ -13,7 +13,7 @@ A comprehensive relational database solution engineered in **Oracle SQL** to cen
 Animal shelters and sanctuaries manage complex, interconnected operational workflows across rescue intake, medical evaluations, temporary foster homes, permanent adoptions, volunteer assignments, and financial fundraising.
 
 **Animalia** replaces error-prone spreadsheet logs with a robust, normalized 3NF Oracle relational database that:
-- Guarantees **data integrity** through foreign keys, check constraints, and cascading rules.
+- Guarantees data integrity through foreign keys, check constraints, and cascading rules.
 - Centralizes medical histories, staff assignments, and caregiver records.
 - Provides real-time operational reports for sanctuary administrators.
 
